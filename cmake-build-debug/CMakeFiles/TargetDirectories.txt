@@ -1,0 +1,3 @@
+/home/romano/CLionProjects/lexical-analysis/cmake-build-debug/CMakeFiles/lexical_analysis.dir
+/home/romano/CLionProjects/lexical-analysis/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/romano/CLionProjects/lexical-analysis/cmake-build-debug/CMakeFiles/rebuild_cache.dir
